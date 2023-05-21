@@ -1,5 +1,5 @@
 # arduino-mqtt-dht22
-
+```JavaScript
 #include <WiFi.h>
 #include <PubSubClient.h>
 #include <Adafruit_Sensor.h>
@@ -79,3 +79,4 @@ void reconnect() {
     }
   }
 }
+```
